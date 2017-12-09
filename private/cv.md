@@ -1,17 +1,18 @@
 ---
 layout: default
+title: ""
 description: "eric liang's curriculum vitae"
 ---
 
 ## 梁宇鹏 Eric Liang
 
-[EGO](https://ego.geekbang.org) 北京分会学习委员，10年 IM 即时通讯经验，丰富的大规模分布式系统经验，擅长互联网架构设计、技术管理，对2B/2C产品业务都有一定的理解。
+10年 IM 即时通讯经验，丰富的大规模分布式系统经验，擅长互联网架构设计、技术管理，对2B/2C产品业务都有一定的理解。
 
+[EGO](https://ego.geekbang.org) 北京分会学习委员 公众号&知乎专栏：[一乐来了](https://zhuanlan.zhihu.com/yilecoming) 网站：[ericliang.info](http://ericliang.info) Github: [github.com/ericliang](https://github.com/ericliang)
 
-公众号&知乎专栏：[一乐来了](https://zhuanlan.zhihu.com/yilecoming) 网站：[ericliang.info](http://ericliang.info) [former](http://lieeil.blog.com/) Github: [github.com/ericliang](https://github.com/ericliang)
+---
 
-### 工作
-
+### 履历
 
 * 2017.04 - 至今 环信（C轮）云通讯事业部总经理
 
@@ -25,19 +26,19 @@ description: "eric liang's curriculum vitae"
 
 	技术演讲：[GMTC：一个跨平台的云服务SDK需要什么]()，[SDCC：Erlang在大规模分布式系统中的应用]()
 
-* 2014.10 - 2015.06 环信（A轮）首席架构师
+* 2014.10 - 2015.06 环信（A轮）Erlang 首席架构师
 
 	优化后台架构设计，并作为两位Erlang工程师之一，改造IM服务EJabberd，保证了随后的并发量按月翻番期间的服务保障。整体长连在半年后从一万达到千万，此次改造相关的也已经在[QCon演讲：指数级增长业务下的架构演化](http://www.infoq.com/cn/presentations/service-structure-transformation-under-the-exponential-growth-service)
 
 ---
 
-* 2014.02 - 2014.10 Java 技术经理 微博（Nasdaq:WB）
+* 2014.02 - 2014.10 微博（Nasdaq:WB）技术经理
 
 	主导微博平台的全链路优化工作，通过基础测速和数据统计，量化分析性能瓶颈，旨在提高移动客户端对微博接口的访问速度。当前已经完成Feed服务的多机房架构设计。
 
 	负责文件服务平台的规划设计，此平台将整合包括TFS、S3和图床等多个存储引擎，提供自适应的高速文件存储服务。目前正在进行文件的上传加速优化。
 
-* 2013.06 - 2014.02 微博（Nasdaq:WB）Java 技术经理
+* 2013.06 - 2014.02 微博（Nasdaq:WB）技术经理
 
 	带领一个小型异地开发团队，与多个产品线与研发部门协作，按期完成内容推送系统Castalia的开发与上线，实现了性能的百倍提升并顺利完成新老系统的无故障迁移，已在[QCon2013演讲](www.infoq.com/cn/presentations/high-performance-services-practice-based-on-cell-architecture)
 
@@ -65,6 +66,8 @@ description: "eric liang's curriculum vitae"
 	负责IM系统服务端开发和维护，解决多个内存泄露问题，将系统MTBF时间由一天提高到一百天以上。考虑到不同语言间的互操作性问题，相关服务均使用SOAP协议与外部系统通信。此服务基于开源软件Jabberd2开发，对基础组件的修改也已经提交到社区。
 
 	将分词技术与人工智能理论结合，使用Erlang实现了客服问答专家系统，并采用BP神经网络思想进行知识库的进化。
+
+---
 
 ### 开源
 
